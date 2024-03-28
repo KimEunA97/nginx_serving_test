@@ -1,1 +1,20 @@
 2024/03/28 15:03:47 [emerg] 8292#23100: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/03/28 15:14:32 [emerg] 8200#19416: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/03/28 15:38:56 [emerg] 19944#23516: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/03/28 15:39:56 [emerg] 15176#21684: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/03/28 15:40:01 [emerg] 20704#1768: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/03/28 15:44:39 [error] 4100#7644: *1 CreateFile() "C:\Users\deadl\Desktop\Practice\nginx_serving_test\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8001", referrer: "http://localhost:8001/"
+2024/03/28 16:08:38 [emerg] 21152#22672: invalid number of arguments in "root" directive in C:\Users\deadl\Desktop\Practice\nginx_serving_test\nginx-1.24.0/conf/nginx.conf:45
+2024/03/28 16:11:33 [emerg] 22740#10404: invalid number of arguments in "root" directive in C:\Users\deadl\Desktop\Practice\nginx_serving_test\nginx-1.24.0/conf/nginx.conf:45
+2024/03/28 16:12:32 [emerg] 2440#22032: invalid number of arguments in "root" directive in C:\Users\deadl\Desktop\Practice\nginx_serving_test\nginx-1.24.0/conf/nginx.conf:45
+2024/03/28 16:12:46 [notice] 8104#4180: signal process started
+2024/03/28 16:15:10 [notice] 3816#18872: signal process started
+2024/03/28 16:15:57 [notice] 15128#16872: signal process started
+2024/03/28 16:16:02 [notice] 9864#16780: signal process started
+2024/03/28 16:16:18 [notice] 22928#6024: signal process started
+2024/03/28 16:16:52 [notice] 11312#15340: signal process started
+2024/03/28 16:16:52 [error] 11312#15340: CreateFile() "C:\Users\deadl\Desktop\Practice\nginx_serving_test\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/03/28 16:17:28 [notice] 14968#19864: signal process started
+2024/03/28 16:17:29 [notice] 19968#17124: signal process started
+2024/03/28 16:17:29 [error] 19968#17124: CreateFile() "C:\Users\deadl\Desktop\Practice\nginx_serving_test\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/03/28 16:31:00 [notice] 21112#12124: signal process started
